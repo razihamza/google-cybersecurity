@@ -1,25 +1,19 @@
 # Google Cybersecurity Professional Certificate
 
-[Professional Certificate.pdf](https://github.com/user-attachments/files/16727546/Professional.Certificate.pdf)
 [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/BGWBH3JL4VHP)
 
-This course provided foundational knowledge, structure that will prepare me for entry-level jobs in cybersecurity and halp me understand how security teams protect their organization and its customers.
+## Skills
 
-This course covered many conceptual topics and domains:
-* Security Principles, Frameworks
-* Risk management
-* Threat analysis
-* Network security
-* Incident response
-
-It focus on the technical skills for the role as security analyst:
-* Linux (OS, Architecture, CLI, package installer etc)
-* Python (Automation)
-* SQL
-* SIEM tools (Splunk and Chronicle)
-* Network protocol anayzers (Wireshark and tcpdump)
-* IDS/IPS tools
-* Firewalls
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1](https://github.com/razihamza) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [2](https://github.com/razihamza) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
+| [3](https://github.com/razihamza) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
+| [4](https://github.com/razihamza) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
+| [5](https://github.com/razihamza) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
+| [6](https://github.com/razihamza) - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [7](https://github.com/razihamza) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| [8](https://github.com/razihamza) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
 
 
